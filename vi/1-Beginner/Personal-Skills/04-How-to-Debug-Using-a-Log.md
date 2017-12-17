@@ -1,4 +1,5 @@
 # How to Debug Using a Log
+*Làm thế nào để debug sử dụng một log*
 [//]: # (Version:1.0.0)
 *Logging* is the practice of writing a system so that it produces a sequence of informative records, called a log. *Printlining* is just producing a simple, usually temporary, log. Absolute beginners must understand and use logs because their knowledge of programming is limited; system architects must understand and use logs because of the complexity of the system. The amount of information that is provided by the log should be configurable, ideally while the program is running. In general, logs offer three basic advantages:
 

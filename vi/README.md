@@ -20,7 +20,7 @@ Welcome to the tribe.
 ## Contents
 
 1. [Beginner](1-Beginner)
-	- Personal Skills
+	- Personal Skills (Kỹ năng cá nhân)
 		- [Learn to Debug](1-Beginner/Personal-Skills/01-Learn-To-Debug.md)
 		- [How to Debug by Splitting the Problem Space](1-Beginner/Personal-Skills/02-How-to-Debug-by-Splitting-the-Problem-Space.md)
 		- [How to Remove an Error](1-Beginner/Personal-Skills/03-How-to-Remove-an-Error.md)
@@ -33,7 +33,7 @@ Welcome to the tribe.
 		- [How to Deal with Intermittent Bugs](1-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
 		- [How to Learn Design Skills](1-Beginner/Personal-Skills/11-How-to-Learn-Design-Skills.md)
 		- [How to Conduct Experiments](1-Beginner/Personal-Skills/12-How-to-Conduct-Experiments.md)
-	- Team Skills
+	- Team Skills (Kỹ năng nhóm)
 		- [Why Estimation is Important](1-Beginner/Team-Skills/01-Why-Estimation-is-Important.md)
 		- [How to Estimate Programming Time](1-Beginner/Team-Skills/02-How-to-Estimate-Programming-Time.md)
 		- [How to Find Out Information](1-Beginner/Team-Skills/03-How-to-Find-Out-Information.md)

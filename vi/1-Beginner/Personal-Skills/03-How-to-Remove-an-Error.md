@@ -1,4 +1,5 @@
 # How to Remove an Error
+*Làm thế nào để loại bỏ một lỗi*
 [//]: # (Version:1.0.0)
 I've intentionally separated the act of examining a program's execution from the act of fixing an error. But of course, debugging does also mean removing the bug. Ideally you will have perfect understanding of the code and will reach an ‘A-Ha!’ moment where you perfectly see the error and how to fix it. But since your program will often use insufficiently documented systems into which you have no visibility, this is not always possible. In other cases the code is so complicated that your understanding cannot be perfect.
 

@@ -1,4 +1,5 @@
 # How to Fix Performance Problems
+*Làm thế nào để fix performance problems*
 [//]: # (Version:1.0.0)
 Most software projects can be made with relatively little effort 10 to 100 times faster than they are at the time they are first released. Under time-to-market pressure, it is both wise and effective to choose a solution that gets the job done simply and quickly, but less efficiently than some other solution. However, performance is a part of usability, and often it must eventually be considered more carefully.
 

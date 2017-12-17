@@ -1,4 +1,5 @@
 # How to Debug by Splitting the Problem Space
+*Làm thế nào debug bằng cách chia nhỏ vấn đề*
 [//]: # (Version:1.0.0)
 Debugging is fun, because it begins with a mystery. You think it should do something, but instead it does something else. It is not always quite so simple---any examples I can give will be contrived compared to what sometimes happens in practice. Debugging requires creativity and ingenuity. If there is a single key to debugging it is to use the divide and conquer technique on the mystery.
 
