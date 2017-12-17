@@ -23,7 +23,7 @@ Welcome to the tribe.
 
 ## Contents
 
-**Also available in [Vietnamese] (vi/README.md), [Chinese](zh/README.md) and [Japanese](jp/README.md)**
+**Also available in [Vietnamese](vi/README.md), [Chinese](zh/README.md) and [Japanese](jp/README.md)**
 
 1. [Beginner](en/1-Beginner)
 	- Personal Skills
